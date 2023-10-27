@@ -10,6 +10,7 @@ public class App {
     List<Article> articles = new ArrayList<>();
     List<Member> members = new ArrayList<>();
     Member loginedMember = null;
+    //수정
 
     public void run() {
         System.out.println("== 텍스트 앱 시작 ==");
